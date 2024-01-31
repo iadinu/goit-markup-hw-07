@@ -76,6 +76,9 @@
 <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2" d="M4 1h24c1.657 0 3 1.343 3 3v24c0 1.657-1.343 3-3 3h-24c-1.657 0-3-1.343-3-3v-24c0-1.657 1.343-3 3-3z"></path>
 <symbol id="checkmark" viewBox="0 0 32 32">
 <path d="M27 4l-15 15-7-7-5 5 12 12 20-20z"></path>
+<symbol id="menu" viewBox="0 0 32 32">
+<path  d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"></path>
+</symbol>
 </symbol>
 </defs>
 </svg>
